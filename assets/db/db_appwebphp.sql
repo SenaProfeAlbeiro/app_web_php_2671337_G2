@@ -41,4 +41,5 @@ SELECT * FROM ROLES;
 
 INSERT INTO USERS VALUES
 (1, 12345678,"Vicente","Fernández","vicente@correo.com", sha1("12345"),1);
-SELECT * FROM USUARIOS;
+
+SELECT * FROM USERS;
